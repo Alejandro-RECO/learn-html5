@@ -45,7 +45,7 @@ document.querySelector('#app').innerHTML = `
                 <h2 class="article-h2">Globitoo done <br> right</h2>
             </header>
             <figure>
-              <img class="article-img" src="./public/img/background.svg" alt="Mujer con flores">
+              <img class="article-img" src="/img/background.svg" alt="Mujer con flores">
             </figure>
         </article>
 
