@@ -138,7 +138,7 @@ document.querySelector('#app').innerHTML = `
         <div class="footer-div">
           <address class="footer-address">
             <i class="bi bi-github"></i>
-            GitHub: <a href="Alejandro-RECO">revolledocoronado@gmail.com</a>
+            GitHub: <a href="https://github.com/Alejandro-RECO/learn-html5">revolledocoronado@gmail.com</a>
           </address>
           <address class="footer-address">
             <i class="bi bi-envelope-fill"></i>
